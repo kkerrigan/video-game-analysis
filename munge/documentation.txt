@@ -1,0 +1,4 @@
+The Question 1 Query file creates a new table called sales_gemre and loads the sales table into it.
+The Question 2 Query file rounds the Global_Sales column in sales_genre.
+The Question 3 Query file filters the data to only look at items that have a Critic_Score greater than zero.
+The Question 4 Query file orders the data in the Critic_Score column from highest to lowest.
