@@ -1,0 +1,5 @@
+The Question 1 Query file creates 2 tables. The first table shows the average critic score for Sports games. The second table shows the average critic score for Shooter games.
+
+The Question 2 Query file creates 3 statistics tables (average, min, max) for the global_sales for:  all games, Sports games, and Shooter games.
+
+The Question 3 Query file creates 2 tables containing the global_sales and the count of games with that global_sales for: Sports games and Shooter games.        
